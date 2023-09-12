@@ -9,12 +9,14 @@ import Java from '../assets/Java.png'
 import Laravel from '../assets/laravel.png'
 import Anaconda from '../assets/anaconda.png'
 import Git from '../assets/Git.png'
-import Jupyter from '../assets/Jupyter.png'
 import C from '../assets/C.png'
+import Azure from '../assets/Azure.png'
+import PyTorch from '../assets/PyTorch.png'
+import django from '../assets/django.png'
 
 const Skills = () => {
   return (
-    <div name='Skills' className='w-full bg-[#0a192f] text-gray-300'>
+    <div name='skills' className='w-full bg-[#0a192f] text-gray-300'>
         <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'> 
             <div>
                 <p className='text-4xl font-bold inline border-b-4 border-pink-500'>Experience</p>
@@ -59,16 +61,24 @@ const Skills = () => {
                     <p>Git</p>
                 </div>
                 <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                    <img className='w-20 mx-auto' src={Jupyter} alt="Jupyter icon"/>
-                    <p>Jupyter</p>
-                </div>
-                <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                     <img className='w-20 mx-auto' src={Tensorflow} alt="Tensorflow icon"/>
                     <p>Tensorflow</p>
                 </div>
                 <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                     <img className='w-40 mx-auto' src={Anaconda} alt="Anaconda icon"/>
                     <p>Anaconda</p>
+                </div>
+                <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                    <img className='w-20 mx-auto' src={django} alt="Anaconda icon"/>
+                    <p>Django</p>
+                </div>
+                <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                    <img className='w-20 mx-auto' src={PyTorch} alt="Anaconda icon"/>
+                    <p>PyTorch</p>
+                </div>
+                <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                    <img className='w-40 mx-auto' src={Azure} alt="Anaconda icon"/>
+                    <p>Microsoft Azure</p>
                 </div>
             </div>
         </div>
