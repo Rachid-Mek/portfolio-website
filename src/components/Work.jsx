@@ -26,7 +26,7 @@ const Work = () => {
                         </span>
                         <div className='pt-8 text-center'>
                             <a href='https://github.com/Rachid-Mek/storageManagement' target='blank'>
-                              <button className='text-center bg-white rounded-lg px-4 py-3 m-2 text-gray-700 font-bold text-lg'>Code</button>
+                              <button className='text-center bg-white rounded-lg px-4 py-3 m-2 text-gray-700 font-bold text-lg hover:scale-110'>Code</button>
                             </a>
                         </div>
                       </div>
@@ -42,7 +42,7 @@ const Work = () => {
                         </span>
                         <div className='pt-8 text-center'>
                             <a href='https://github.com/Rachid-Mek/App' target='blank'>
-                              <button className='text-center bg-white rounded-lg px-4 py-3 m-2 text-gray-700 font-bold text-lg'>Code</button>
+                              <button className='text-center bg-white rounded-lg px-4 py-3 m-2 text-gray-700 font-bold text-lg hover:scale-110'>Code</button>
                             </a>
                         </div>
                       </div>
@@ -58,7 +58,7 @@ const Work = () => {
                         </span>
                         <div className='pt-8 text-center'>
                             <a href='https://github.com/Rachid-Mek/Spam-Detection' target='blank'>
-                              <button className='text-center bg-white rounded-lg px-4 py-3 m-2 text-gray-700 font-bold text-lg'>Code</button>
+                              <button className='text-center bg-white rounded-lg px-4 py-3 m-2 text-gray-700 font-bold text-lg hover:scale-110'>Code</button>
                             </a>
                         </div>
                       </div>
@@ -74,7 +74,7 @@ const Work = () => {
                         </span>
                         <div className='pt-8 text-center'>
                             <a href='https://github.com/Rachid-Mek/IARN' target='blank'>
-                              <button className='text-center bg-white rounded-lg px-4 py-3 m-2 text-gray-700 font-bold text-lg'>Code</button>
+                              <button className='text-center bg-white rounded-lg px-4 py-3 m-2 text-gray-700 font-bold text-lg hover:scale-110'>Code</button>
                             </a>
                         </div>
                       </div>

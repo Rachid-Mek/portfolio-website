@@ -14,34 +14,34 @@ const NavBar = () => {
     <div className='fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#0a192f] text-gray-300'>
         <div>
           <Link to="home" smooth={true} offset={50} duration={500}>
-            <img src={Logo} alt="logo" className='w-[50px] hover:scale-110' />
+            <img src={Logo} alt="logo" className='w-[50px] hover:scale-110 ' />
           </Link>
         </div>
         
         <ul className='hidden md:flex'>
             <li className='px-4 hover:text-white'>
             <Link to="home" smooth={true} offset={50} duration={500}>
-          Home
+          <p className='hover:border-b hover:border-pink-500'>Home</p>
         </Link>
             </li>
             <li className='px-4 hover:text-white'>
             <Link to="about" smooth={true} offset={50} duration={500}>
-          About
+          <p className='hover:border-b hover:border-pink-500'>About</p>
         </Link>
             </li>
             <li className='px-4 hover:text-white'>
             <Link to="skills" smooth={true} offset={50} duration={500}>
-          Skills
+          <p className='hover:border-b hover:border-pink-500'>Skills</p>
         </Link>
             </li>
             <li className='px-4 hover:text-white'>
             <Link to="work" smooth={true} offset={50} duration={500}>
-          Works
+          <p className='hover:border-b hover:border-pink-500'>Works</p>
         </Link>
             </li>
             <li className='px-4 hover:text-white'>
             <Link to="contact" smooth={true} offset={50} duration={500}>
-          Contact
+          <p className='hover:border-b hover:border-pink-500'>Contact</p>
         </Link>
             </li>
         </ul>
