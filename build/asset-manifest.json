@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f1d24fc0.css",
+    "main.js": "/static/js/main.f32cdc42.js",
+    "static/media/pharmacists.jpg": "/static/media/pharmacists.ac8ebf96880ca4f38d03.jpg",
+    "static/media/MachineLearning.jpg": "/static/media/MachineLearning.39a3e6ad03b26f1e25fa.jpg",
+    "static/media/Java.png": "/static/media/Java.d3bf0b8bb34c8459667a.png",
+    "static/media/react.png": "/static/media/react.8a6fc0a24a800d1e0f4a.png",
+    "static/media/Azure.png": "/static/media/Azure.ee6680cb8bbe776d13b8.png",
+    "static/media/mobile_App.jpg": "/static/media/mobile_App.7c136e8e8bf2eec971e3.jpg",
+    "static/media/Tensorflow.png": "/static/media/Tensorflow.5d49847106d9588c5473.png",
+    "static/media/css3.png": "/static/media/css3.19c8605d6b2861f5fbe0.png",
+    "static/media/HTML5.png": "/static/media/HTML5.c4d9c8dcdf4078875355.png",
+    "static/media/Tailwind.png": "/static/media/Tailwind.36b2728bf0d14b7b7576.png",
+    "static/media/django.png": "/static/media/django.a5aaa412df3c52f5f6bf.png",
+    "static/media/nlp.jpg": "/static/media/nlp.6a6557f4e66a6dfd2bc0.jpg",
+    "static/media/PyTorch.png": "/static/media/PyTorch.e233fc48a48fde996610.png",
+    "static/media/logo.png": "/static/media/logo.1402a00ded8dbd229010.png",
+    "static/media/C.png": "/static/media/C.bbbbbabc8c191bfb99bf.png",
+    "index.html": "/index.html",
+    "main.f1d24fc0.css.map": "/static/css/main.f1d24fc0.css.map",
+    "main.f32cdc42.js.map": "/static/js/main.f32cdc42.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1d24fc0.css",
+    "static/js/main.f32cdc42.js"
+  ]
+}
