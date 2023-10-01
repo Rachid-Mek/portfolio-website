@@ -14,7 +14,10 @@ const NavBar = () => {
     <div className='fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#0a192f] text-gray-300'>
         <div>
           <Link to="home" smooth={true} offset={50} duration={500}>
+            <div className='flex flex-row items-center mr-1 '>
             <img src={Logo} alt="logo" className='w-[50px] hover:scale-110 ' />
+            <p className='text-3xl font-bold'>Student</p>
+            </div>
           </Link>
         </div>
         
